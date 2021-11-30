@@ -18,3 +18,8 @@ Steps for spinning up this infrastructure:
 3) Run command
 ```terraform apply```
 - terraform will apply prepared configuration to each instance.
+
+
+Support window:
+- If .sh scripts are not working because of rights just run:
+```chmod +x run.sh editdb.sh```
