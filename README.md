@@ -1,6 +1,6 @@
 # robotworld
 
-Database with robot world semi0-automatically spinned up via terraform and docker
+Database with robot world semi-automatically spinned up via terraform and docker.
 
 **Prerequisities:**
 - docker
